@@ -1,0 +1,39 @@
+<html>
+    <title>games lab</title>
+   <header>
+   <img src="https://mars.algoritmika.org/uploads/2020/10/Vector_0_1603390263.png" width="200x" height="200px">
+   <p> What kind of games do we make? price list</p>
+   </header>
+    <body>
+        <main>
+
+<h1>games lab </h1>
+<h2>game developennnd studio</h2>
+
+        <p>Do you want to make a game according to your scenario?
+Do you already have a game that needs to be finalized for mobile devices or for sale in another country?
+You can order the development or revision of the game from us.
+We work in a variety of genres: shooters, quests, logic and speed games.
+We also create games of mixed genres, games that develop useful skills: attention, memory, thinking.</p>
+    <table>
+      <tr>
+        <td>
+           Type of work	</td>
+           <td>Details</td>
+           <td>Price</td>
+           </tr>  
+            <tr>
+        <td>Porting	Destop,	
+          	</td>
+           <td> Android, iOSs</td>
+           <td>from 700 dollars</td>
+           </tr> 
+           </table>
+    </main>
+
+<footer>
+b
+</footer>
+    </body>
+
+</html>
